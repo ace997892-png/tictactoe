@@ -7,7 +7,6 @@ A classic two-player Tic-Tac-Toe game built with Python's built-in `tkinter` GUI
 ## Features
 
 - Interactive 3x3 button grid built with Tkinter
-- Random coin-flip to decide which player (`x` or `o`) goes first
 - Live turn indicator label at the top of the window
 - Automatic win detection across all 8 winning lines (3 rows, 3 columns, 2 diagonals)
 - Winning line highlighted in green; a tied board is highlighted in yellow
