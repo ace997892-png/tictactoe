@@ -20,3 +20,9 @@ No other packages are required.
 ## How to Run
 
 1. Clone this repository:
+   git clone https://github.com/minggua/tic-ta-to.git
+2. Navigate into the project folder:
+   cd tic-ta-to
+3. Run the game:
+   python3 src/tictactoe.py
+
